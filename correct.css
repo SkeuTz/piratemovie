@@ -1,0 +1,15 @@
+.backdropImage {
+filter: blur(18px);
+}
+
+.backdropImage {
+filter: saturate(120%);
+}
+
+.backdropImage {
+filter: contrast(120%);
+}
+
+.backdropImage {
+filter: brightness(40%);
+}
